@@ -2,6 +2,10 @@
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Dodat jos jedan console log");
 
+var b = Console.Read();
+Console.WriteLine("lalalalal");
+Console.WriteLine("Dodat jos jedan console log");
+
 var a = Console.ReadLine();
 Console.WriteLine("dodat");
 
